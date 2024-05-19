@@ -110,3 +110,9 @@ webencodings              0.5.1
 websocket-client          1.8.0
 (venv) lg@lg-UX31E:~/misc/gh/sympy-things
 ~~~
+
+Now I can start a notbook webserver with the commad
+
+    $ jupyter notebook &
+
+This will also bring up a webrowser with a jupyter start page
